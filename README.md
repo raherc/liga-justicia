@@ -11,3 +11,5 @@ Pueden hacer lo que quieran...
 Este es un mensaje editado desde github
 
 # cambios nuevos desde github
+# Cambios desde local
+cambios desde local git
